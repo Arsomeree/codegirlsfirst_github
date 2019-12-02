@@ -2,7 +2,17 @@ body {
   background-color: #FFFFFF;
 }
 
+
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: black;
+  margin-left: 0px;
+  style="font-size:10vw";
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  color: black;
+  margin-left: 0px;
+  style="font-size:5vw";
+  font-family: "Times New Roman", Times, serif;
 }
